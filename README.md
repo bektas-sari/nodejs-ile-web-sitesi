@@ -1,4 +1,4 @@
-# 🚀 Vite + TypeScript + Tailwind CSS Projesi
+# 🚀 Vite + TypeScript + Tailwind CSS Projesi (bolt.new kullanıldı ve promptlarla yönlendirilerek ilgili web sitesi oluşturuldu)
 
 Bu proje, **Vite** kullanılarak oluşturulmuş, **TypeScript** ve **Tailwind CSS** ile geliştirilmiş modern bir web uygulamasıdır. 
 
@@ -36,8 +36,8 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 ### 2️⃣ **Projeyi Klonla**
 
 ```sh
-git clone https://github.com/kullanbektas-sari/nodejs-ile-web-page.git
-cd nodejs-ile-web-page
+git clone https://github.com/kullanbektas-sari/nodejs-ile-web-sitesi.git
+cd nodejs-ile-web-sitesi
 ```
 
 ### 3️⃣ **Bağımlılıkları Yükle**
@@ -82,7 +82,5 @@ Katkıda bulunmak için lütfen aşağıdaki adımları takip edin:
 5. Bir **Pull Request** oluşturun 📌
 
 Her türlü katkıyı memnuniyetle karşılıyorum! 🚀
-
+bektas.sari@gmail.com üzerinden iletişim kurbilirsiniz
 ---
-
-Bu README dosyası, projenin anlaşılır ve profesyonel bir şekilde belgelenmesini sağlar. Gerektiğinde güncelleyebilir veya eklemeler yapabilirsiniz. 🎉
